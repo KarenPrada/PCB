@@ -6,4 +6,9 @@ Diseñar un sistema digital basado en una tarjeta de circuito impreso (PCB) de c
 ![pic 1](diagrama.jpeg)
 
 2. Esquemático
-   ![pic 1](diagrama.jpeg)
+   ![pic 2](Esquematico.png)
+
+3. Modelo PCB 3D
+  ![pic 3](pcb.png)
+
+   

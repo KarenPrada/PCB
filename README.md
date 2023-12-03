@@ -11,4 +11,7 @@ Diseñar un sistema digital basado en una tarjeta de circuito impreso (PCB) de c
 3. Modelo PCB 3D
   ![pic 3](pcb3d.png)
 
+4. Video simulación
+   [![Simulación en Proteus](hqdefault.jpg)](https://www.youtube.com/watch?v=xwuRP3T_9eA)
+
    
